@@ -1,0 +1,6 @@
+{
+	"java.project.referencedLibraries": [
+		"lib/**/*.jar",
+		"/home/shubham/Desktop/Projects/Masters/Compiler/Project 5/p5-compiler/**/*.jar"
+	],
+}
